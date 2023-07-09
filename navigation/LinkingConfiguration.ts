@@ -20,11 +20,6 @@ const linking: LinkingOptions<RootStackParamList> = {
               HomeScreen: "home",
             },
           },
-          Cart: {
-            screens: {
-              CartScreen: "cart",
-            },
-          },
         },
       },
       Modal: "modal",
